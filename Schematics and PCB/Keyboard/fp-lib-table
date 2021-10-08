@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keyboard)(type KiCad)(uri "C:/Users/mikec/Google Drive/Keyboard/Kicad/Keyboard.pretty-master")(options "")(descr ""))
+  (lib (name Teensy)(type KiCad)(uri "C:/Users/mikec/Google Drive/Keyboard/Kicad/Teensy.pretty")(options "")(descr ""))
+)

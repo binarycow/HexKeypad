@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Hex Keypad",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-E1xx",
+    "plate": true
+  },
+  [
+    ":",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    "D",
+    "E",
+    "F",
+    "←\n\n\n\n\n\n→"
+  ],
+  [
+    "A",
+    "B",
+    "C",
+    "⌫"
+  ],
+  [
+    "7\nHome",
+    "8\n↑",
+    "9\nPgUp",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    "4\n←",
+    "5",
+    "6\n→"
+  ],
+  [
+    "1\nEnd",
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "0\nIns",
+    ".\nDel"
+  ]
+]
